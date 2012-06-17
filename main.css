@@ -1,0 +1,45 @@
+html, body {
+	color: white;
+    overflow: hidden;
+	background: white;
+    margin: 0px 0px;
+    padding: 0px;
+
+}
+
+img.number {
+    margin-top:180px;
+	border: 0px;
+	height:188px;
+	width:132px;
+}
+
+#feeds  {
+    float:left;
+    /*position: absolute;*/
+    display:none;	
+}
+
+/*#hours1 {
+   -webkit-transform: translateY(80px) translateX(-80px)  rotate(90deg);   
+}
+#hours2 {
+   -webkit-transform: translateY(80px) translateX(-240px)rotate(90deg);   
+}
+
+#minutes1 {
+   -webkit-transform: translateY(80px) translateX(-400px) rotate(90deg);   
+}
+
+#minutes2 {
+   -webkit-transform: translateY(80px) translateX(-560px) rotate(90deg);   
+}
+
+#seconds1 {
+    -webkit-transform: translateY(-240px) translateX(600px) rotate(90deg);   
+}
+
+#seconds2 {
+
+   -webkit-transform: translateY(-240px) translateX(240px) rotate(90deg);   
+}*/
